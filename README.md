@@ -1,7 +1,12 @@
 # Programación 2
 
-¡Bienvenidos! En este repositorio van a encontrar archivos relacionados con la cursada de Programación 2 de TUP.
+¡Bienvenidos! En este repositorio van a encontrar material complementario a la cursada de Programación 2 (TUP UTN FRGP).
 
 ## Contenido
 
-[Introducción a Git](./introduccion_a_git.md)
+- [C++ en VS Code](./cpp-en-vs-code/cpp-en-vs-code.md)
+- [Introducción a Git](./introduccion-a-git.md)
+
+## Links útiles
+
+- [GitHub de la materia](https://github.com/theregext/programacion2-20251c-n)
