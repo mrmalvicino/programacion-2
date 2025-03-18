@@ -1,3 +1,5 @@
 # Programación 2
 
-Archivos para la ayudantía.
+## Contenido
+
+[Introducción a Git](./introduccion_a_git.md)
