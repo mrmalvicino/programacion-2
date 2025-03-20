@@ -4,7 +4,7 @@
 
 ## Contenido
 
-- [C++ en VS Code](./cpp-en-vs-code/cpp-en-vs-code.md)
+- [C++ en VS Code](./cpp-en-vs-code.md)
 - [Introducción a Git](./introduccion-a-git.md)
 
 ## Links útiles
