@@ -36,19 +36,19 @@ Para que VS Code pueda usar el compilador `gcc/g++` que incluye [w64devkit](http
 
 1. En inicio, buscar `env`:
 
-    ![Imgur](./images/environment-variables-1.png)
+    ![Imgur](./../images/environment-variables-1.png)
 
 2. Abrir las variables de entorno:
 
-    ![Imgur](./images/environment-variables-2.png)
+    ![Imgur](./../images/environment-variables-2.png)
 
 3. Editar el `Path`:
 
-    ![Imgur](./images/environment-variables-3.png)
+    ![Imgur](./../images/environment-variables-3.png)
 
 4. Agregar una nueva ruta y pegar la ruta del compilador:
 
-    ![Imgur](./images/environment-variables-4.png)
+    ![Imgur](./../images/environment-variables-4.png)
 
 ## Visual Studio Code
 
