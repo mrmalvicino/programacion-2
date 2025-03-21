@@ -12,7 +12,7 @@ int main()
     {
         for (int j = 0; j < N; j++)
         {
-            m[i][j] = i + j + i * M + 1; // Esta fórmula es solamente para que la matriz contenga enteros ascendentes
+            m[i][j] = i + j + i * M + 1;
         }
     }
 
@@ -23,7 +23,7 @@ int main()
         for (int j = 0; j < N; j++)
         {
             std::cout << m[i][j];
-            std::cout << "\t"; // El 
+            std::cout << "\t";
         }
 
         std::cout << "\n";
