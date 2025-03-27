@@ -127,7 +127,7 @@ Para que VS Code pueda usar el compilador `gcc/g++` que incluye [w64devkit](http
        }
        ```
 
-4. (Opcional) Si obtenés un error en la línea `#include <iostream>`, simplemente creá dentro de la carpeta `.vscode` un archivo que se llame `c_cpp_properties.json` y tenga el siguiente código y reiniciá VS Code.
+4. (Opcional) Si obtenés un error en la línea `#include <iostream>`, simplemente creá dentro de la carpeta `.vscode` un archivo que se llame `c_cpp_properties.json` y tenga el siguiente código, reiniciando VS Code luego.
 
     ```json
     {

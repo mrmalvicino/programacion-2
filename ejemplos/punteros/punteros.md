@@ -89,4 +89,4 @@ Donde:
 
 - `i` no es un entero, sino un puntero a una fila (osea a un vector).
 - `j` no es un entero, sino un puntero a un entero.
-- `m` es las dirección inicial de la matriz.
+- `m` es un puntero que tiene la dirección inicial de la matriz.
